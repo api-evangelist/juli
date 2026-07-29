@@ -1,0 +1,25 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.juli.co/compliance-1
+scope: company-compliance-program
+note: >-
+  Company-level compliance posture searched from Juli's published Security &
+  Compliance page. Juli publishes no public OpenAPI/developer API, so these are
+  organizational frameworks, not standards derived from an API contract.
+standards:
+- id: soc2
+  name: SOC 2
+  conforms: true
+  evidence: named on https://www.juli.co/compliance-1; certificates available on request
+- id: hipaa
+  name: HIPAA
+  conforms: true
+  evidence: named on https://www.juli.co/compliance-1 (US health information privacy)
+- id: gdpr
+  name: GDPR
+  conforms: true
+  evidence: named on https://www.juli.co/compliance-1 (EU data protection)
+- id: iso27001
+  name: ISO 27001
+  conforms: false
+  evidence: not named on the published compliance page as of probe date
