@@ -37,7 +37,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: http://static1.squarespace.com/static/5fa87841b62c744907e46ad2/t/5fab0e61e21cb61aeddf196c/1664816087413/2-01.jpg?format=1500w
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
