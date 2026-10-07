@@ -79,6 +79,8 @@ tags_raw:
 - Healthtech
 apis: []
 common:
+- type: Plans
+  url: plans/juli-plans-pricing.yml
 - type: DomainSecurity
   url: security/juli-domain-security.yml
 - type: Website
