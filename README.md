@@ -64,6 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Juli is a company surfaced as a portfolio company of speedinvest and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Juli is a US-based (Hull, Massachusetts) digital-health company building an AI-powered mobile platform that helps people manage complex, hard-to-treat chronic conditions — including asthma, migraine, depression, and bipolar disorder. The app combines patient-reported symptoms, wearable and phone sensor data, and environmental context (weather, air quality, pollen) to surface the micro-behavioral triggers that worsen or improve a person's condition, then nudges small, sustainable changes through daily check-ins, reminders, and gamified "daily dares." Juli's efficacy has been evaluated in two randomized controlled trials (asthma and depression), published in JMIR and a SAGE journal, and the company reports retention far above consumer-health norms. Founded by Bettina Duehrkoop, Juli raised a $3.8M seed round in March 2022 co-led by Speedinvest and Norrsken VC. It serves consumers directly plus provider, employer, education (juli.education), pharma, and research (juli.science) channels. Juli is a consumer/clinical app with a HIPAA / SOC 2 / GDPR compliance posture; it publishes no public developer API, SDK, or developer portal at this time.
 
-Backed by: speedinvest
+**Areas:** Company · Digital Health · Chronic Conditions · Mental Health · Asthma · Depression · Bipolar Disorder · Migraine · mHealth · Wearables · Artificial Intelligence · Health Tech
+
+## Juli on APIs.io
+
+Everything profiled for Juli is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/juli/](https://apis.io/providers/juli/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Juli Domain Security](https://apis.io/security/juli/juli-domain-security/)
+- [Juli Trust Center](https://apis.io/security/juli/juli-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Juli Plans Pricing](https://apis.io/plans/juli/juli-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.juli.co)
+- [Pricing](https://www.juli.health/pricing)
+- [Support](https://www.juli.co/support)
+- [Blog](https://www.juli.co/blog)
+- [Security](https://www.juli.co/compliance-1)
+- [Compliance](https://www.juli.co/compliance-1)
+- [Terms of service](https://www.juli.co/terms-of-service)
+- [Privacy policy](https://www.juli.co/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 20.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 47.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.6** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/juli/](https://apis.io/providers/juli/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Juli: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/juli/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
